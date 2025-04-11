@@ -1,0 +1,2 @@
+def numMagicSquareInside(grid):
+    
